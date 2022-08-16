@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **CLICAP APP**
 
-- 🌱 I’m currently learning **GrapQL, Docker and Microservices with Node JS**
+- 🌱 I’m currently learning **GraphQL, Docker and Microservices with Node JS**
 
 - 📫 How to reach me **enriquecerioni39@gmail.com**
 
