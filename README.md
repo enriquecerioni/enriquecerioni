@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Enrique Cerioni</h1>
-<h3 align="center">I'm a Computer Engineer and I work as a Full-Stack developer. I'm From Argentina.</h3>
+<h3 align="center">I'm a Informatics Engineer and I work as a Full-Stack developer. I'm From Argentina.</h3>
 
-- 🔭 I’m currently working with the stack C#, .NET, React and MongoDB
+- 🔭 I’m currently working with Java, Spring Boot, Microsoft SQL Server, Google Cloud Platform
 
-- 🌱 I’m currently learning **C#, .NET and TypeScript**
+- 🌱 I’m currently learning **Terraform and GCP**
 
 - 📫 How to reach me **enriquecerioni39@gmail.com**
 
